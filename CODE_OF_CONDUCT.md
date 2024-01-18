@@ -1,6 +1,6 @@
 # Giao ước cộng tác viên
 
-Chúng ta cam kết tạo một môi trường an toàn và chân thành cho tất cả mọi người, không phụ thuộc vào giới tính, tình dục, tình trạng hôn nhân, sắc tộc, tôn giáo, tình trạng khuyết tật, hoặc kích thước cơ thể.
-
-Hãy tôn trọng lẫn nhau và tạo điều kiện cho mọi người cùng tham gia mà không sợ bị làm phiền hoặc bị đối xử không công bằng.
-
+Quy tắc ứng xử giúp đặt ra các quy tắc cơ bản cho hành vi của những người tham gia dự án của
+bạn. Nó xác định các tiêu chuẩn về cách tham gia vào một cộng đồng. GitHub cung cấp các mẫu
+quy tắc ứng xử phổ biến để giúp bạn nhanh chóng thêm quy tắc ứng xử vào dự án của mình. Để
+thêm quy tắc ứng xử vào dự án của bạn
